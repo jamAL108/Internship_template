@@ -1,0 +1,272 @@
+.main {
+  margin-top: 45px;
+  width: min(85% , 1100px);
+  height: auto;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-direction: column;
+}
+
+ .main .heading {
+    height: 230px;
+    display: flex;
+    align-items: center;
+ }
+
+ .main .heading  .title {
+      font-family: 'BonFoyage', sans-serif !important;
+      font-weight: 599;
+    }
+
+    .main .heading  h1 {
+      font-family: inherit;
+      margin: auto;
+      font-size: 5.1rem;
+      width: 70%;
+      width: max(800px , 70%);
+      text-align: center;
+      line-height: 100px;
+      letter-spacing: 2px;
+      color: #1B150B;
+    }
+
+ .main .down-section {
+    position: relative;
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -35px;
+    z-index: 1;
+ }
+
+ .main .down-section .statue {
+      z-index: 10;
+      filter: drop-shadow( 0 0 8px 5px rgba(200, 0, 0, 0.5));
+      clip-path: polygon(0% 0%, 100% 0%, 100% 120%, 0% 120%);
+    }
+
+    .main .down-section .box {
+      position: absolute;
+      top: 14%;
+      width: 60%;
+    }
+      
+    .main .down-section .box .rectangle {
+        width: 100%;
+        height: 450px;
+        z-index: 2;
+        opacity: 0.3;
+      }
+
+      .main .down-section .box h2{
+        font-size: 0.9rem;
+        letter-spacing: 0.5px;
+        font-weight: 500;
+        text-transform: capitalize;
+     }
+
+     .main .down-section .box .left{
+        position: absolute;
+        top: 38%;
+        left: -140px;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        gap: 17px;
+      }
+
+      .main .down-section .box .right{
+        position: absolute;
+        top: 16%;
+        right: -165px;
+        letter-spacing: 0.3px;
+        width: 200px;
+      }
+        
+      .main .down-section .box .right h2{
+          font-size: 0.8rem;
+          line-height: 17px;
+        }
+        .main .down-section .box .circle{
+        position: absolute;
+        bottom: 10%;
+        right: -80px;
+        z-index: 10;
+        }
+
+        .main .down-section .box .circle img{
+          width: 65px;
+          height: 65px;
+        }
+
+        .main .down-section .box  .judge{
+        position: absolute;
+        bottom: -5%;
+        left: -140px;
+        z-index: 100;
+        }
+
+        .main .down-section .box  .judge  img{
+          width: 140px;
+          height: 80px;
+        }
+
+
+        .main .down-section .LAWYER{
+      position: absolute;
+      bottom: -160px;
+      width: 110%;  
+      font-family: 'BonFoyage', sans-serif;
+      z-index: 0;
+    }
+    .main .down-section  h1{
+        font-size:18rem;
+        letter-spacing: 10px;
+        text-align: center;
+        margin: auto;
+        width: 100%;
+        font-weight: 560;
+        color: #EFE4D4;
+      }
+
+
+
+
+@media screen  and  (max-width:700px){
+  .main {
+    margin-top: 20px;
+    width: 100%;
+  
+    .heading {
+      height: 230px;
+      display: flex;
+      align-items: center;
+  
+      .title {
+        font-family: 'BonFoyage', sans-serif;
+        font-weight:600;
+      }
+  
+      h1 {
+        font-family: inherit;
+        margin: auto;
+        font-size: 2.5rem;
+        width: max(800px , 70%);
+        width: 90%;
+        text-align: center;
+        line-height: 70px;
+        letter-spacing: 2px;
+        color: #1B150B;
+      }
+    }
+  
+    .down-section {
+      position: relative;
+      width: 100%;
+      height: auto;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin-top: -35px;
+      z-index: 1;
+  
+      .statue {
+        z-index: 10;
+        filter: drop-shadow( 0 0 8px 5px rgba(200, 0, 0, 0.5));
+        clip-path: polygon(0% 0%, 100% 0%, 100% 120%, 0% 120%);
+      }
+  
+      .box {
+        position: absolute;
+        top: 14%;
+        width: 90%;
+        // border: 1px solid red;
+        .rectangle {
+          width: 100%;
+          height: 550px;
+          z-index: 0;
+          opacity: 1;
+        }
+  
+        h2{
+          font-size: 0.9rem;
+          letter-spacing: 0.5px;
+          font-weight: 500;
+          text-transform: capitalize;
+       }
+  
+        .left{
+          position: absolute;
+          top: 38%;
+          left: -140px;
+          display: flex;
+          justify-content: center;
+          flex-direction: column;
+          gap: 17px;
+        }
+  
+        .right{
+          position: absolute;
+          top: 16%;
+          right: -165px;
+          letter-spacing: 0.3px;
+          width: 200px;
+          
+          h2{
+            font-size: 0.8rem;
+            line-height: 17px;
+          }
+        }
+        .circle{
+          position: absolute;
+          bottom: 10%;
+          right: -80px;
+          z-index: 10;
+  
+          img{
+            width: 65px;
+            height: 65px;
+          }
+        }
+  
+        .judge{
+          position: absolute;
+          bottom: -5%;
+          left: -140px;
+          z-index: 100;
+  
+          img{
+            width: 140px;
+            height: 80px;
+          }
+        }
+  
+  
+      }
+  
+      .LAWYER{
+        position: absolute;
+        bottom: -90px;
+        width: 110%; 
+        // border: 1px solid red;     
+        font-family: 'BonFoyage', sans-serif;
+        font-size: 9rem;
+        z-index: 0;
+        h1{
+          letter-spacing: 10px;
+          text-align: center;
+          margin: auto;
+          width: 100%;
+          font-weight: 560;
+          color: #EFE4D4;
+        }
+      }
+    }
+  }
+  
+}
+
+

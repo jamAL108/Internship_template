@@ -1,0 +1,2290 @@
+[
+    {
+        "ipc": "IPC_8",
+        "bns": "BNS_81"
+    },
+    {
+        "ipc": "IPC_9",
+        "bns": "BNS_220"
+    },
+    {
+        "ipc": "IPC_2",
+        "bns": "BNS_3"
+    },
+    {
+        "ipc": "IPC_6",
+        "bns": "BNS_6"
+    },
+    {
+        "ipc": "IPC_1",
+        "bns": "BNS_1"
+    },
+    {
+        "ipc": "IPC_5",
+        "bns": "BNS_6"
+    },
+    {
+        "ipc": "IPC_7",
+        "bns": "BNS_243"
+    },
+    {
+        "ipc": "IPC_3",
+        "bns": "BNS_4"
+    },
+    {
+        "ipc": "IPC_4",
+        "bns": "BNS_4"
+    },
+    {
+        "ipc": "IPC_10",
+        "bns": "BNS_243"
+    },
+    {
+        "ipc": "IPC_11",
+        "bns": "BNS_26"
+    },
+    {
+        "ipc": "IPC_12",
+        "bns": "BNS_298"
+    },
+    {
+        "ipc": "IPC_14",
+        "bns": "BNS_14"
+    },
+    {
+        "ipc": "IPC_13]",
+        "bns": "BNS_113"
+    },
+    {
+        "ipc": "IPC_15]",
+        "bns": "BNS_153"
+    },
+    {
+        "ipc": "IPC_16]",
+        "bns": "BNS_188"
+    },
+    {
+        "ipc": "IPC_17",
+        "bns": "BNS_188"
+    },
+    {
+        "ipc": "IPC_18",
+        "bns": "BNS_188"
+    },
+    {
+        "ipc": "IPC_20",
+        "bns": "BNS_243"
+    },
+    {
+        "ipc": "IPC_21",
+        "bns": "BNS_21"
+    },
+    {
+        "ipc": "IPC_22",
+        "bns": "BNS_22"
+    },
+    {
+        "ipc": "IPC_23",
+        "bns": "BNS_36"
+    },
+    {
+        "ipc": "IPC_25",
+        "bns": "BNS_243"
+    },
+    {
+        "ipc": "IPC_24",
+        "bns": "BNS_324"
+    },
+    {
+        "ipc": "IPC_26",
+        "bns": "BNS_227"
+    },
+    {
+        "ipc": "IPC_27",
+        "bns": "BNS_344"
+    },
+    {
+        "ipc": "IPC_28",
+        "bns": "BNS_28"
+    },
+    {
+        "ipc": "IPC_29",
+        "bns": "BNS_27"
+    },
+    {
+        "ipc": "IPC_29A",
+        "bns": "BNS_29"
+    },
+    {
+        "ipc": "IPC_30",
+        "bns": "BNS_349"
+    },
+    {
+        "ipc": "IPC_31",
+        "bns": "BNS_34"
+    },
+    {
+        "ipc": "IPC_32",
+        "bns": "BNS_4"
+    },
+    {
+        "ipc": "IPC_33\"Omission\"",
+        "bns": "BNS_45"
+    },
+    {
+        "ipc": "IPC_35",
+        "bns": "BNS_6"
+    },
+    {
+        "ipc": "IPC_34",
+        "bns": "BNS_51"
+    },
+    {
+        "ipc": "IPC_36",
+        "bns": "BNS_36"
+    },
+    {
+        "ipc": "IPC_37",
+        "bns": "BNS_310"
+    },
+    {
+        "ipc": "IPC_38",
+        "bns": "BNS_110"
+    },
+    {
+        "ipc": "IPC_39",
+        "bns": "BNS_39"
+    },
+    {
+        "ipc": "IPC_40",
+        "bns": "BNS_243"
+    },
+    {
+        "ipc": "IPC_41",
+        "bns": "BNS_41"
+    },
+    {
+        "ipc": "IPC_42",
+        "bns": "BNS_42"
+    },
+    {
+        "ipc": "IPC_43\"Legally",
+        "bns": "BNS_14"
+    },
+    {
+        "ipc": "IPC_44",
+        "bns": "BNS_117"
+    },
+    {
+        "ipc": "IPC_45",
+        "bns": "BNS_2"
+    },
+    {
+        "ipc": "IPC_46",
+        "bns": "BNS_2"
+    },
+    {
+        "ipc": "IPC_47",
+        "bns": "BNS_291"
+    },
+    {
+        "ipc": "IPC_48",
+        "bns": "BNS_282"
+    },
+    {
+        "ipc": "IPC_49\"Month\"",
+        "bns": "BNS_20"
+    },
+    {
+        "ipc": "IPC_50",
+        "bns": "BNS_50"
+    },
+    {
+        "ipc": "IPC_51",
+        "bns": "BNS_236"
+    },
+    {
+        "ipc": "IPC_52",
+        "bns": "BNS_18"
+    },
+    {
+        "ipc": "IPC_52A",
+        "bns": "BNS_249"
+    },
+    {
+        "ipc": "IPC_53A",
+        "bns": "BNS_253"
+    },
+    {
+        "ipc": "IPC_54",
+        "bns": "BNS_5"
+    },
+    {
+        "ipc": "IPC_53",
+        "bns": "BNS_53"
+    },
+    {
+        "ipc": "IPC_55",
+        "bns": "BNS_260"
+    },
+    {
+        "ipc": "IPC_55A",
+        "bns": "BNS_55"
+    },
+    {
+        "ipc": "IPC_57",
+        "bns": "BNS_6"
+    },
+    {
+        "ipc": "IPC_56]",
+        "bns": "BNS_263"
+    },
+    {
+        "ipc": "IPC_58]",
+        "bns": "BNS_358"
+    },
+    {
+        "ipc": "IPC_60",
+        "bns": "BNS_60"
+    },
+    {
+        "ipc": "IPC_63",
+        "bns": "BNS_8"
+    },
+    {
+        "ipc": "IPC_59]",
+        "bns": "BNS_59"
+    },
+    {
+        "ipc": "IPC_61]",
+        "bns": "BNS_155"
+    },
+    {
+        "ipc": "IPC_65",
+        "bns": "BNS_3"
+    },
+    {
+        "ipc": "IPC_62]",
+        "bns": "BNS_317"
+    },
+    {
+        "ipc": "IPC_64",
+        "bns": "BNS_243"
+    },
+    {
+        "ipc": "IPC_66",
+        "bns": "BNS_4"
+    },
+    {
+        "ipc": "IPC_67",
+        "bns": "BNS_125"
+    },
+    {
+        "ipc": "IPC_68",
+        "bns": "BNS_66"
+    },
+    {
+        "ipc": "IPC_69",
+        "bns": "BNS_66"
+    },
+    {
+        "ipc": "IPC_70",
+        "bns": "BNS_8"
+    },
+    {
+        "ipc": "IPC_71",
+        "bns": "BNS_71"
+    },
+    {
+        "ipc": "IPC_72",
+        "bns": "BNS_10"
+    },
+    {
+        "ipc": "IPC_74",
+        "bns": "BNS_12"
+    },
+    {
+        "ipc": "IPC_75",
+        "bns": "BNS_13"
+    },
+    {
+        "ipc": "IPC_73",
+        "bns": "BNS_11"
+    },
+    {
+        "ipc": "IPC_77",
+        "bns": "BNS_15"
+    },
+    {
+        "ipc": "IPC_78",
+        "bns": "BNS_16"
+    },
+    {
+        "ipc": "IPC_76",
+        "bns": "BNS_14"
+    },
+    {
+        "ipc": "IPC_80",
+        "bns": "BNS_18"
+    },
+    {
+        "ipc": "IPC_79",
+        "bns": "BNS_79"
+    },
+    {
+        "ipc": "IPC_82",
+        "bns": "BNS_20"
+    },
+    {
+        "ipc": "IPC_81",
+        "bns": "BNS_19"
+    },
+    {
+        "ipc": "IPC_85",
+        "bns": "BNS_23"
+    },
+    {
+        "ipc": "IPC_84",
+        "bns": "BNS_22"
+    },
+    {
+        "ipc": "IPC_83",
+        "bns": "BNS_21"
+    },
+    {
+        "ipc": "IPC_86",
+        "bns": "BNS_243"
+    },
+    {
+        "ipc": "IPC_89",
+        "bns": "BNS_27"
+    },
+    {
+        "ipc": "IPC_87",
+        "bns": "BNS_25"
+    },
+    {
+        "ipc": "IPC_88",
+        "bns": "BNS_26"
+    },
+    {
+        "ipc": "IPC_92",
+        "bns": "BNS_92"
+    },
+    {
+        "ipc": "IPC_91",
+        "bns": "BNS_29"
+    },
+    {
+        "ipc": "IPC_90",
+        "bns": "BNS_90"
+    },
+    {
+        "ipc": "IPC_93",
+        "bns": "BNS_31"
+    },
+    {
+        "ipc": "IPC_95",
+        "bns": "BNS_33"
+    },
+    {
+        "ipc": "IPC_94",
+        "bns": "BNS_32"
+    },
+    {
+        "ipc": "IPC_96",
+        "bns": "BNS_34"
+    },
+    {
+        "ipc": "IPC_97",
+        "bns": "BNS_35"
+    },
+    {
+        "ipc": "IPC_99",
+        "bns": "BNS_37"
+    },
+    {
+        "ipc": "IPC_98",
+        "bns": "BNS_98"
+    },
+    {
+        "ipc": "IPC_100",
+        "bns": "BNS_38"
+    },
+    {
+        "ipc": "IPC_104",
+        "bns": "BNS_42"
+    },
+    {
+        "ipc": "IPC_101",
+        "bns": "BNS_39"
+    },
+    {
+        "ipc": "IPC_102",
+        "bns": "BNS_40"
+    },
+    {
+        "ipc": "IPC_106",
+        "bns": "BNS_44"
+    },
+    {
+        "ipc": "IPC_103",
+        "bns": "BNS_41"
+    },
+    {
+        "ipc": "IPC_105",
+        "bns": "BNS_43"
+    },
+    {
+        "ipc": "IPC_108A",
+        "bns": "BNS_47"
+    },
+    {
+        "ipc": "IPC_107",
+        "bns": "BNS_107"
+    },
+    {
+        "ipc": "IPC_110",
+        "bns": "BNS_50"
+    },
+    {
+        "ipc": "IPC_108",
+        "bns": "BNS_108"
+    },
+    {
+        "ipc": "IPC_111",
+        "bns": "BNS_51"
+    },
+    {
+        "ipc": "IPC_109",
+        "bns": "BNS_49"
+    },
+    {
+        "ipc": "IPC_112",
+        "bns": "BNS_52"
+    },
+    {
+        "ipc": "IPC_114",
+        "bns": "BNS_54"
+    },
+    {
+        "ipc": "IPC_113",
+        "bns": "BNS_53"
+    },
+    {
+        "ipc": "IPC_115\u2014if",
+        "bns": "BNS_55"
+    },
+    {
+        "ipc": "IPC_117",
+        "bns": "BNS_57"
+    },
+    {
+        "ipc": "IPC_118",
+        "bns": "BNS_58"
+    },
+    {
+        "ipc": "IPC_116\u2014if",
+        "bns": "BNS_116"
+    },
+    {
+        "ipc": "IPC_120",
+        "bns": "BNS_60"
+    },
+    {
+        "ipc": "IPC_119",
+        "bns": "BNS_59"
+    },
+    {
+        "ipc": "IPC_120A",
+        "bns": "BNS_61"
+    },
+    {
+        "ipc": "IPC_121",
+        "bns": "BNS_147"
+    },
+    {
+        "ipc": "IPC_122,",
+        "bns": "BNS_149"
+    },
+    {
+        "ipc": "IPC_120B",
+        "bns": "BNS_120"
+    },
+    {
+        "ipc": "IPC_121A",
+        "bns": "BNS_148"
+    },
+    {
+        "ipc": "IPC_123",
+        "bns": "BNS_150"
+    },
+    {
+        "ipc": "IPC_124A",
+        "bns": "BNS_152"
+    },
+    {
+        "ipc": "IPC_124",
+        "bns": "BNS_151"
+    },
+    {
+        "ipc": "IPC_127",
+        "bns": "BNS_155"
+    },
+    {
+        "ipc": "IPC_129",
+        "bns": "BNS_157"
+    },
+    {
+        "ipc": "IPC_125",
+        "bns": "BNS_147"
+    },
+    {
+        "ipc": "IPC_126",
+        "bns": "BNS_154"
+    },
+    {
+        "ipc": "IPC_132",
+        "bns": "BNS_160"
+    },
+    {
+        "ipc": "IPC_133",
+        "bns": "BNS_161"
+    },
+    {
+        "ipc": "IPC_131",
+        "bns": "BNS_159"
+    },
+    {
+        "ipc": "IPC_128",
+        "bns": "BNS_156"
+    },
+    {
+        "ipc": "IPC_134",
+        "bns": "BNS_162"
+    },
+    {
+        "ipc": "IPC_130",
+        "bns": "BNS_158"
+    },
+    {
+        "ipc": "IPC_138A]",
+        "bns": "BNS_138"
+    },
+    {
+        "ipc": "IPC_137",
+        "bns": "BNS_164"
+    },
+    {
+        "ipc": "IPC_135",
+        "bns": "BNS_163"
+    },
+    {
+        "ipc": "IPC_136",
+        "bns": "BNS_164"
+    },
+    {
+        "ipc": "IPC_140",
+        "bns": "BNS_168"
+    },
+    {
+        "ipc": "IPC_138",
+        "bns": "BNS_166"
+    },
+    {
+        "ipc": "IPC_143",
+        "bns": "BNS_191"
+    },
+    {
+        "ipc": "IPC_139",
+        "bns": "BNS_139"
+    },
+    {
+        "ipc": "IPC_141",
+        "bns": "BNS_141"
+    },
+    {
+        "ipc": "IPC_142",
+        "bns": "BNS_190"
+    },
+    {
+        "ipc": "IPC_147",
+        "bns": "BNS_191"
+    },
+    {
+        "ipc": "IPC_145",
+        "bns": "BNS_191"
+    },
+    {
+        "ipc": "IPC_144",
+        "bns": "BNS_188"
+    },
+    {
+        "ipc": "IPC_146",
+        "bns": "BNS_191"
+    },
+    {
+        "ipc": "IPC_148",
+        "bns": "BNS_311"
+    },
+    {
+        "ipc": "IPC_149",
+        "bns": "BNS_190"
+    },
+    {
+        "ipc": "IPC_150",
+        "bns": "BNS_191"
+    },
+    {
+        "ipc": "IPC_152",
+        "bns": "BNS_195"
+    },
+    {
+        "ipc": "IPC_151",
+        "bns": "BNS_57"
+    },
+    {
+        "ipc": "IPC_153B",
+        "bns": "BNS_197"
+    },
+    {
+        "ipc": "IPC_153AA",
+        "bns": "BNS_188"
+    },
+    {
+        "ipc": "IPC_153A",
+        "bns": "BNS_193"
+    },
+    {
+        "ipc": "IPC_153",
+        "bns": "BNS_192"
+    },
+    {
+        "ipc": "IPC_155",
+        "bns": "BNS_192"
+    },
+    {
+        "ipc": "IPC_154",
+        "bns": "BNS_193"
+    },
+    {
+        "ipc": "IPC_157",
+        "bns": "BNS_7"
+    },
+    {
+        "ipc": "IPC_156",
+        "bns": "BNS_193"
+    },
+    {
+        "ipc": "IPC_158",
+        "bns": "BNS_188"
+    },
+    {
+        "ipc": "IPC_159",
+        "bns": "BNS_194"
+    },
+    {
+        "ipc": "IPC_160",
+        "bns": "BNS_136"
+    },
+    {
+        "ipc": "IPC_162]",
+        "bns": "BNS_170"
+    },
+    {
+        "ipc": "IPC_161]",
+        "bns": "BNS_170"
+    },
+    {
+        "ipc": "IPC_165A]",
+        "bns": "BNS_56"
+    },
+    {
+        "ipc": "IPC_165]",
+        "bns": "BNS_264"
+    },
+    {
+        "ipc": "IPC_163]",
+        "bns": "BNS_170"
+    },
+    {
+        "ipc": "IPC_164]",
+        "bns": "BNS_264"
+    },
+    {
+        "ipc": "IPC_166A",
+        "bns": "BNS_199"
+    },
+    {
+        "ipc": "IPC_166",
+        "bns": "BNS_198"
+    },
+    {
+        "ipc": "IPC_166B",
+        "bns": "BNS_200"
+    },
+    {
+        "ipc": "IPC_167",
+        "bns": "BNS_201"
+    },
+    {
+        "ipc": "IPC_168",
+        "bns": "BNS_202"
+    },
+    {
+        "ipc": "IPC_169",
+        "bns": "BNS_203"
+    },
+    {
+        "ipc": "IPC_170",
+        "bns": "BNS_204"
+    },
+    {
+        "ipc": "IPC_171E",
+        "bns": "BNS_173"
+    },
+    {
+        "ipc": "IPC_171C",
+        "bns": "BNS_171"
+    },
+    {
+        "ipc": "IPC_171F",
+        "bns": "BNS_174"
+    },
+    {
+        "ipc": "IPC_171D",
+        "bns": "BNS_171"
+    },
+    {
+        "ipc": "IPC_171-I",
+        "bns": "BNS_177"
+    },
+    {
+        "ipc": "IPC_171H",
+        "bns": "BNS_176"
+    },
+    {
+        "ipc": "IPC_171G",
+        "bns": "BNS_171"
+    },
+    {
+        "ipc": "IPC_171B",
+        "bns": "BNS_171"
+    },
+    {
+        "ipc": "IPC_171",
+        "bns": "BNS_205"
+    },
+    {
+        "ipc": "IPC_172",
+        "bns": "BNS_206"
+    },
+    {
+        "ipc": "IPC_171A",
+        "bns": "BNS_171"
+    },
+    {
+        "ipc": "IPC_173",
+        "bns": "BNS_207"
+    },
+    {
+        "ipc": "IPC_176",
+        "bns": "BNS_211"
+    },
+    {
+        "ipc": "IPC_175",
+        "bns": "BNS_210"
+    },
+    {
+        "ipc": "IPC_174A",
+        "bns": "BNS_209"
+    },
+    {
+        "ipc": "IPC_174",
+        "bns": "BNS_208"
+    },
+    {
+        "ipc": "IPC_178",
+        "bns": "BNS_213"
+    },
+    {
+        "ipc": "IPC_180",
+        "bns": "BNS_215"
+    },
+    {
+        "ipc": "IPC_177",
+        "bns": "BNS_212"
+    },
+    {
+        "ipc": "IPC_179",
+        "bns": "BNS_214"
+    },
+    {
+        "ipc": "IPC_184",
+        "bns": "BNS_219"
+    },
+    {
+        "ipc": "IPC_181",
+        "bns": "BNS_216"
+    },
+    {
+        "ipc": "IPC_182",
+        "bns": "BNS_217"
+    },
+    {
+        "ipc": "IPC_186",
+        "bns": "BNS_221"
+    },
+    {
+        "ipc": "IPC_187",
+        "bns": "BNS_222"
+    },
+    {
+        "ipc": "IPC_190",
+        "bns": "BNS_225"
+    },
+    {
+        "ipc": "IPC_183",
+        "bns": "BNS_218"
+    },
+    {
+        "ipc": "IPC_185",
+        "bns": "BNS_220"
+    },
+    {
+        "ipc": "IPC_193",
+        "bns": "BNS_229"
+    },
+    {
+        "ipc": "IPC_189",
+        "bns": "BNS_224"
+    },
+    {
+        "ipc": "IPC_188",
+        "bns": "BNS_223"
+    },
+    {
+        "ipc": "IPC_191",
+        "bns": "BNS_229"
+    },
+    {
+        "ipc": "IPC_192",
+        "bns": "BNS_228"
+    },
+    {
+        "ipc": "IPC_196",
+        "bns": "BNS_233"
+    },
+    {
+        "ipc": "IPC_194",
+        "bns": "BNS_230"
+    },
+    {
+        "ipc": "IPC_197",
+        "bns": "BNS_234"
+    },
+    {
+        "ipc": "IPC_195",
+        "bns": "BNS_231"
+    },
+    {
+        "ipc": "IPC_195A",
+        "bns": "BNS_232"
+    },
+    {
+        "ipc": "IPC_199",
+        "bns": "BNS_236"
+    },
+    {
+        "ipc": "IPC_198",
+        "bns": "BNS_235"
+    },
+    {
+        "ipc": "IPC_200",
+        "bns": "BNS_200"
+    },
+    {
+        "ipc": "IPC_202",
+        "bns": "BNS_239"
+    },
+    {
+        "ipc": "IPC_201",
+        "bns": "BNS_238"
+    },
+    {
+        "ipc": "IPC_207",
+        "bns": "BNS_244"
+    },
+    {
+        "ipc": "IPC_203",
+        "bns": "BNS_243"
+    },
+    {
+        "ipc": "IPC_206",
+        "bns": "BNS_243"
+    },
+    {
+        "ipc": "IPC_204",
+        "bns": "BNS_241"
+    },
+    {
+        "ipc": "IPC_209",
+        "bns": "BNS_246"
+    },
+    {
+        "ipc": "IPC_205",
+        "bns": "BNS_205"
+    },
+    {
+        "ipc": "IPC_210",
+        "bns": "BNS_247"
+    },
+    {
+        "ipc": "IPC_211",
+        "bns": "BNS_248"
+    },
+    {
+        "ipc": "IPC_208",
+        "bns": "BNS_245"
+    },
+    {
+        "ipc": "IPC_213,",
+        "bns": "BNS_250"
+    },
+    {
+        "ipc": "IPC_212",
+        "bns": "BNS_249"
+    },
+    {
+        "ipc": "IPC_214",
+        "bns": "BNS_251"
+    },
+    {
+        "ipc": "IPC_215",
+        "bns": "BNS_252"
+    },
+    {
+        "ipc": "IPC_216",
+        "bns": "BNS_253"
+    },
+    {
+        "ipc": "IPC_216B",
+        "bns": "BNS_249"
+    },
+    {
+        "ipc": "IPC_217",
+        "bns": "BNS_255"
+    },
+    {
+        "ipc": "IPC_220",
+        "bns": "BNS_258"
+    },
+    {
+        "ipc": "IPC_219",
+        "bns": "BNS_257"
+    },
+    {
+        "ipc": "IPC_218",
+        "bns": "BNS_218"
+    },
+    {
+        "ipc": "IPC_216A",
+        "bns": "BNS_254"
+    },
+    {
+        "ipc": "IPC_224",
+        "bns": "BNS_262"
+    },
+    {
+        "ipc": "IPC_221",
+        "bns": "BNS_259"
+    },
+    {
+        "ipc": "IPC_222",
+        "bns": "BNS_260"
+    },
+    {
+        "ipc": "IPC_223",
+        "bns": "BNS_261"
+    },
+    {
+        "ipc": "IPC_227",
+        "bns": "BNS_266"
+    },
+    {
+        "ipc": "IPC_225B",
+        "bns": "BNS_265"
+    },
+    {
+        "ipc": "IPC_228",
+        "bns": "BNS_267"
+    },
+    {
+        "ipc": "IPC_225",
+        "bns": "BNS_263"
+    },
+    {
+        "ipc": "IPC_226",
+        "bns": "BNS_253"
+    },
+    {
+        "ipc": "IPC_225A",
+        "bns": "BNS_264"
+    },
+    {
+        "ipc": "IPC_229A",
+        "bns": "BNS_269"
+    },
+    {
+        "ipc": "IPC_229",
+        "bns": "BNS_268"
+    },
+    {
+        "ipc": "IPC_228A",
+        "bns": "BNS_228"
+    },
+    {
+        "ipc": "IPC_230",
+        "bns": "BNS_2"
+    },
+    {
+        "ipc": "IPC_233",
+        "bns": "BNS_181"
+    },
+    {
+        "ipc": "IPC_232",
+        "bns": "BNS_178"
+    },
+    {
+        "ipc": "IPC_234",
+        "bns": "BNS_181"
+    },
+    {
+        "ipc": "IPC_231",
+        "bns": "BNS_178"
+    },
+    {
+        "ipc": "IPC_237",
+        "bns": "BNS_179"
+    },
+    {
+        "ipc": "IPC_236",
+        "bns": "BNS_46"
+    },
+    {
+        "ipc": "IPC_235",
+        "bns": "BNS_181"
+    },
+    {
+        "ipc": "IPC_239",
+        "bns": "BNS_180"
+    },
+    {
+        "ipc": "IPC_238",
+        "bns": "BNS_179"
+    },
+    {
+        "ipc": "IPC_240",
+        "bns": "BNS_179"
+    },
+    {
+        "ipc": "IPC_241",
+        "bns": "BNS_180"
+    },
+    {
+        "ipc": "IPC_242",
+        "bns": "BNS_180"
+    },
+    {
+        "ipc": "IPC_243",
+        "bns": "BNS_180"
+    },
+    {
+        "ipc": "IPC_244",
+        "bns": "BNS_186"
+    },
+    {
+        "ipc": "IPC_245",
+        "bns": "BNS_187"
+    },
+    {
+        "ipc": "IPC_246",
+        "bns": "BNS_178"
+    },
+    {
+        "ipc": "IPC_247",
+        "bns": "BNS_178"
+    },
+    {
+        "ipc": "IPC_248",
+        "bns": "BNS_178"
+    },
+    {
+        "ipc": "IPC_249",
+        "bns": "BNS_178"
+    },
+    {
+        "ipc": "IPC_250",
+        "bns": "BNS_317"
+    },
+    {
+        "ipc": "IPC_251",
+        "bns": "BNS_251"
+    },
+    {
+        "ipc": "IPC_252",
+        "bns": "BNS_180"
+    },
+    {
+        "ipc": "IPC_253",
+        "bns": "BNS_180"
+    },
+    {
+        "ipc": "IPC_254",
+        "bns": "BNS_179"
+    },
+    {
+        "ipc": "IPC_255",
+        "bns": "BNS_178"
+    },
+    {
+        "ipc": "IPC_256",
+        "bns": "BNS_181"
+    },
+    {
+        "ipc": "IPC_257",
+        "bns": "BNS_181"
+    },
+    {
+        "ipc": "IPC_258",
+        "bns": "BNS_179"
+    },
+    {
+        "ipc": "IPC_259",
+        "bns": "BNS_180"
+    },
+    {
+        "ipc": "IPC_260",
+        "bns": "BNS_179"
+    },
+    {
+        "ipc": "IPC_262",
+        "bns": "BNS_184"
+    },
+    {
+        "ipc": "IPC_261",
+        "bns": "BNS_183"
+    },
+    {
+        "ipc": "IPC_263",
+        "bns": "BNS_185"
+    },
+    {
+        "ipc": "IPC_264",
+        "bns": "BNS_184"
+    },
+    {
+        "ipc": "IPC_263A",
+        "bns": "BNS_186"
+    },
+    {
+        "ipc": "IPC_266",
+        "bns": "BNS_246"
+    },
+    {
+        "ipc": "IPC_265",
+        "bns": "BNS_184"
+    },
+    {
+        "ipc": "IPC_267",
+        "bns": "BNS_341"
+    },
+    {
+        "ipc": "IPC_268",
+        "bns": "BNS_270"
+    },
+    {
+        "ipc": "IPC_269",
+        "bns": "BNS_271"
+    },
+    {
+        "ipc": "IPC_270",
+        "bns": "BNS_270"
+    },
+    {
+        "ipc": "IPC_274",
+        "bns": "BNS_276"
+    },
+    {
+        "ipc": "IPC_271",
+        "bns": "BNS_273"
+    },
+    {
+        "ipc": "IPC_273",
+        "bns": "BNS_273"
+    },
+    {
+        "ipc": "IPC_272",
+        "bns": "BNS_272"
+    },
+    {
+        "ipc": "IPC_275",
+        "bns": "BNS_277"
+    },
+    {
+        "ipc": "IPC_276",
+        "bns": "BNS_276"
+    },
+    {
+        "ipc": "IPC_277",
+        "bns": "BNS_279"
+    },
+    {
+        "ipc": "IPC_278",
+        "bns": "BNS_280"
+    },
+    {
+        "ipc": "IPC_279",
+        "bns": "BNS_281"
+    },
+    {
+        "ipc": "IPC_280",
+        "bns": "BNS_280"
+    },
+    {
+        "ipc": "IPC_281",
+        "bns": "BNS_283"
+    },
+    {
+        "ipc": "IPC_284",
+        "bns": "BNS_284"
+    },
+    {
+        "ipc": "IPC_286",
+        "bns": "BNS_286"
+    },
+    {
+        "ipc": "IPC_287",
+        "bns": "BNS_289"
+    },
+    {
+        "ipc": "IPC_283",
+        "bns": "BNS_283"
+    },
+    {
+        "ipc": "IPC_282",
+        "bns": "BNS_284"
+    },
+    {
+        "ipc": "IPC_285",
+        "bns": "BNS_285"
+    },
+    {
+        "ipc": "IPC_291",
+        "bns": "BNS_293"
+    },
+    {
+        "ipc": "IPC_288",
+        "bns": "BNS_290"
+    },
+    {
+        "ipc": "IPC_289",
+        "bns": "BNS_291"
+    },
+    {
+        "ipc": "IPC_290",
+        "bns": "BNS_292"
+    },
+    {
+        "ipc": "IPC_292,",
+        "bns": "BNS_294"
+    },
+    {
+        "ipc": "IPC_296",
+        "bns": "BNS_300"
+    },
+    {
+        "ipc": "IPC_295",
+        "bns": "BNS_298"
+    },
+    {
+        "ipc": "IPC_294",
+        "bns": "BNS_296"
+    },
+    {
+        "ipc": "IPC_295A",
+        "bns": "BNS_299"
+    },
+    {
+        "ipc": "IPC_297",
+        "bns": "BNS_301"
+    },
+    {
+        "ipc": "IPC_293,",
+        "bns": "BNS_293"
+    },
+    {
+        "ipc": "IPC_294A",
+        "bns": "BNS_297"
+    },
+    {
+        "ipc": "IPC_299",
+        "bns": "BNS_299"
+    },
+    {
+        "ipc": "IPC_298,",
+        "bns": "BNS_299"
+    },
+    {
+        "ipc": "IPC_302",
+        "bns": "BNS_103"
+    },
+    {
+        "ipc": "IPC_300",
+        "bns": "BNS_100"
+    },
+    {
+        "ipc": "IPC_304B",
+        "bns": "BNS_80"
+    },
+    {
+        "ipc": "IPC_303",
+        "bns": "BNS_104"
+    },
+    {
+        "ipc": "IPC_301",
+        "bns": "BNS_101"
+    },
+    {
+        "ipc": "IPC_305",
+        "bns": "BNS_107"
+    },
+    {
+        "ipc": "IPC_304A",
+        "bns": "BNS_106"
+    },
+    {
+        "ipc": "IPC_306",
+        "bns": "BNS_108"
+    },
+    {
+        "ipc": "IPC_304",
+        "bns": "BNS_105"
+    },
+    {
+        "ipc": "IPC_309",
+        "bns": "BNS_62"
+    },
+    {
+        "ipc": "IPC_308",
+        "bns": "BNS_110"
+    },
+    {
+        "ipc": "IPC_307",
+        "bns": "BNS_109"
+    },
+    {
+        "ipc": "IPC_312",
+        "bns": "BNS_88"
+    },
+    {
+        "ipc": "IPC_313",
+        "bns": "BNS_88"
+    },
+    {
+        "ipc": "IPC_310",
+        "bns": "BNS_313"
+    },
+    {
+        "ipc": "IPC_311",
+        "bns": "BNS_313"
+    },
+    {
+        "ipc": "IPC_315",
+        "bns": "BNS_91"
+    },
+    {
+        "ipc": "IPC_318",
+        "bns": "BNS_94"
+    },
+    {
+        "ipc": "IPC_314",
+        "bns": "BNS_90"
+    },
+    {
+        "ipc": "IPC_316",
+        "bns": "BNS_316"
+    },
+    {
+        "ipc": "IPC_319",
+        "bns": "BNS_114"
+    },
+    {
+        "ipc": "IPC_317",
+        "bns": "BNS_93"
+    },
+    {
+        "ipc": "IPC_323",
+        "bns": "BNS_115"
+    },
+    {
+        "ipc": "IPC_321",
+        "bns": "BNS_321"
+    },
+    {
+        "ipc": "IPC_320",
+        "bns": "BNS_116"
+    },
+    {
+        "ipc": "IPC_322",
+        "bns": "BNS_117"
+    },
+    {
+        "ipc": "IPC_325",
+        "bns": "BNS_243"
+    },
+    {
+        "ipc": "IPC_326A",
+        "bns": "BNS_124"
+    },
+    {
+        "ipc": "IPC_324",
+        "bns": "BNS_324"
+    },
+    {
+        "ipc": "IPC_326",
+        "bns": "BNS_117"
+    },
+    {
+        "ipc": "IPC_326B",
+        "bns": "BNS_124"
+    },
+    {
+        "ipc": "IPC_327",
+        "bns": "BNS_119"
+    },
+    {
+        "ipc": "IPC_330",
+        "bns": "BNS_120"
+    },
+    {
+        "ipc": "IPC_329",
+        "bns": "BNS_120"
+    },
+    {
+        "ipc": "IPC_328,",
+        "bns": "BNS_123"
+    },
+    {
+        "ipc": "IPC_333",
+        "bns": "BNS_243"
+    },
+    {
+        "ipc": "IPC_331",
+        "bns": "BNS_120"
+    },
+    {
+        "ipc": "IPC_334",
+        "bns": "BNS_122"
+    },
+    {
+        "ipc": "IPC_332",
+        "bns": "BNS_121"
+    },
+    {
+        "ipc": "IPC_338",
+        "bns": "BNS_311"
+    },
+    {
+        "ipc": "IPC_336",
+        "bns": "BNS_125"
+    },
+    {
+        "ipc": "IPC_337",
+        "bns": "BNS_125"
+    },
+    {
+        "ipc": "IPC_335",
+        "bns": "BNS_243"
+    },
+    {
+        "ipc": "IPC_339",
+        "bns": "BNS_126"
+    },
+    {
+        "ipc": "IPC_340",
+        "bns": "BNS_127"
+    },
+    {
+        "ipc": "IPC_342",
+        "bns": "BNS_127"
+    },
+    {
+        "ipc": "IPC_341",
+        "bns": "BNS_126"
+    },
+    {
+        "ipc": "IPC_344",
+        "bns": "BNS_4"
+    },
+    {
+        "ipc": "IPC_343",
+        "bns": "BNS_343"
+    },
+    {
+        "ipc": "IPC_348",
+        "bns": "BNS_8"
+    },
+    {
+        "ipc": "IPC_345",
+        "bns": "BNS_55"
+    },
+    {
+        "ipc": "IPC_346",
+        "bns": "BNS_6"
+    },
+    {
+        "ipc": "IPC_347",
+        "bns": "BNS_7"
+    },
+    {
+        "ipc": "IPC_349",
+        "bns": "BNS_349"
+    },
+    {
+        "ipc": "IPC_352",
+        "bns": "BNS_131"
+    },
+    {
+        "ipc": "IPC_351",
+        "bns": "BNS_130"
+    },
+    {
+        "ipc": "IPC_350",
+        "bns": "BNS_350"
+    },
+    {
+        "ipc": "IPC_353",
+        "bns": "BNS_132"
+    },
+    {
+        "ipc": "IPC_354",
+        "bns": "BNS_74"
+    },
+    {
+        "ipc": "IPC_354A",
+        "bns": "BNS_354"
+    },
+    {
+        "ipc": "IPC_354C",
+        "bns": "BNS_77"
+    },
+    {
+        "ipc": "IPC_354D",
+        "bns": "BNS_78"
+    },
+    {
+        "ipc": "IPC_354B",
+        "bns": "BNS_76"
+    },
+    {
+        "ipc": "IPC_356",
+        "bns": "BNS_134"
+    },
+    {
+        "ipc": "IPC_355",
+        "bns": "BNS_133"
+    },
+    {
+        "ipc": "IPC_359",
+        "bns": "BNS_137"
+    },
+    {
+        "ipc": "IPC_358",
+        "bns": "BNS_136"
+    },
+    {
+        "ipc": "IPC_357",
+        "bns": "BNS_135"
+    },
+    {
+        "ipc": "IPC_361",
+        "bns": "BNS_139"
+    },
+    {
+        "ipc": "IPC_360",
+        "bns": "BNS_137"
+    },
+    {
+        "ipc": "IPC_362",
+        "bns": "BNS_138"
+    },
+    {
+        "ipc": "IPC_363",
+        "bns": "BNS_137"
+    },
+    {
+        "ipc": "IPC_364",
+        "bns": "BNS_140"
+    },
+    {
+        "ipc": "IPC_366",
+        "bns": "BNS_87"
+    },
+    {
+        "ipc": "IPC_364A",
+        "bns": "BNS_142"
+    },
+    {
+        "ipc": "IPC_365",
+        "bns": "BNS_336"
+    },
+    {
+        "ipc": "IPC_367",
+        "bns": "BNS_4"
+    },
+    {
+        "ipc": "IPC_366B",
+        "bns": "BNS_141"
+    },
+    {
+        "ipc": "IPC_366A",
+        "bns": "BNS_96"
+    },
+    {
+        "ipc": "IPC_363A",
+        "bns": "BNS_139"
+    },
+    {
+        "ipc": "IPC_369",
+        "bns": "BNS_97"
+    },
+    {
+        "ipc": "IPC_370A",
+        "bns": "BNS_144"
+    },
+    {
+        "ipc": "IPC_368",
+        "bns": "BNS_142"
+    },
+    {
+        "ipc": "IPC_370",
+        "bns": "BNS_143"
+    },
+    {
+        "ipc": "IPC_372",
+        "bns": "BNS_98"
+    },
+    {
+        "ipc": "IPC_371",
+        "bns": "BNS_143"
+    },
+    {
+        "ipc": "IPC_373",
+        "bns": "BNS_99"
+    },
+    {
+        "ipc": "IPC_374",
+        "bns": "BNS_146"
+    },
+    {
+        "ipc": "IPC_375",
+        "bns": "BNS_375"
+    },
+    {
+        "ipc": "IPC_376A",
+        "bns": "BNS_65"
+    },
+    {
+        "ipc": "IPC_376E",
+        "bns": "BNS_249"
+    },
+    {
+        "ipc": "IPC_376B",
+        "bns": "BNS_376"
+    },
+    {
+        "ipc": "IPC_376DB",
+        "bns": "BNS_70"
+    },
+    {
+        "ipc": "IPC_376DA",
+        "bns": "BNS_70"
+    },
+    {
+        "ipc": "IPC_376AB",
+        "bns": "BNS_70"
+    },
+    {
+        "ipc": "IPC_376C",
+        "bns": "BNS_68"
+    },
+    {
+        "ipc": "IPC_376D",
+        "bns": "BNS_70"
+    },
+    {
+        "ipc": "IPC_377",
+        "bns": "BNS_377"
+    },
+    {
+        "ipc": "IPC_376",
+        "bns": "BNS_64"
+    },
+    {
+        "ipc": "IPC_378",
+        "bns": "BNS_303"
+    },
+    {
+        "ipc": "IPC_379",
+        "bns": "BNS_309"
+    },
+    {
+        "ipc": "IPC_381",
+        "bns": "BNS_381"
+    },
+    {
+        "ipc": "IPC_380",
+        "bns": "BNS_305"
+    },
+    {
+        "ipc": "IPC_383",
+        "bns": "BNS_383"
+    },
+    {
+        "ipc": "IPC_382",
+        "bns": "BNS_304"
+    },
+    {
+        "ipc": "IPC_384",
+        "bns": "BNS_308"
+    },
+    {
+        "ipc": "IPC_385",
+        "bns": "BNS_303"
+    },
+    {
+        "ipc": "IPC_386",
+        "bns": "BNS_5"
+    },
+    {
+        "ipc": "IPC_387",
+        "bns": "BNS_4"
+    },
+    {
+        "ipc": "IPC_388",
+        "bns": "BNS_6"
+    },
+    {
+        "ipc": "IPC_389",
+        "bns": "BNS_6"
+    },
+    {
+        "ipc": "IPC_391",
+        "bns": "BNS_310"
+    },
+    {
+        "ipc": "IPC_390",
+        "bns": "BNS_309"
+    },
+    {
+        "ipc": "IPC_392",
+        "bns": "BNS_309"
+    },
+    {
+        "ipc": "IPC_394",
+        "bns": "BNS_309"
+    },
+    {
+        "ipc": "IPC_393",
+        "bns": "BNS_393"
+    },
+    {
+        "ipc": "IPC_395",
+        "bns": "BNS_254"
+    },
+    {
+        "ipc": "IPC_399",
+        "bns": "BNS_4"
+    },
+    {
+        "ipc": "IPC_398",
+        "bns": "BNS_312"
+    },
+    {
+        "ipc": "IPC_397",
+        "bns": "BNS_311"
+    },
+    {
+        "ipc": "IPC_396",
+        "bns": "BNS_331"
+    },
+    {
+        "ipc": "IPC_402",
+        "bns": "BNS_5"
+    },
+    {
+        "ipc": "IPC_400",
+        "bns": "BNS_6"
+    },
+    {
+        "ipc": "IPC_401",
+        "bns": "BNS_313"
+    },
+    {
+        "ipc": "IPC_404",
+        "bns": "BNS_315"
+    },
+    {
+        "ipc": "IPC_403",
+        "bns": "BNS_314"
+    },
+    {
+        "ipc": "IPC_405",
+        "bns": "BNS_316"
+    },
+    {
+        "ipc": "IPC_408",
+        "bns": "BNS_316"
+    },
+    {
+        "ipc": "IPC_407",
+        "bns": "BNS_316"
+    },
+    {
+        "ipc": "IPC_406",
+        "bns": "BNS_316"
+    },
+    {
+        "ipc": "IPC_409",
+        "bns": "BNS_316"
+    },
+    {
+        "ipc": "IPC_410",
+        "bns": "BNS_410"
+    },
+    {
+        "ipc": "IPC_412",
+        "bns": "BNS_313"
+    },
+    {
+        "ipc": "IPC_414",
+        "bns": "BNS_315"
+    },
+    {
+        "ipc": "IPC_413",
+        "bns": "BNS_413"
+    },
+    {
+        "ipc": "IPC_411",
+        "bns": "BNS_243"
+    },
+    {
+        "ipc": "IPC_416",
+        "bns": "BNS_319"
+    },
+    {
+        "ipc": "IPC_417",
+        "bns": "BNS_319"
+    },
+    {
+        "ipc": "IPC_420",
+        "bns": "BNS_318"
+    },
+    {
+        "ipc": "IPC_419",
+        "bns": "BNS_249"
+    },
+    {
+        "ipc": "IPC_418",
+        "bns": "BNS_318"
+    },
+    {
+        "ipc": "IPC_423",
+        "bns": "BNS_322"
+    },
+    {
+        "ipc": "IPC_421",
+        "bns": "BNS_320"
+    },
+    {
+        "ipc": "IPC_422",
+        "bns": "BNS_321"
+    },
+    {
+        "ipc": "IPC_424",
+        "bns": "BNS_320"
+    },
+    {
+        "ipc": "IPC_425",
+        "bns": "BNS_324"
+    },
+    {
+        "ipc": "IPC_429,",
+        "bns": "BNS_324"
+    },
+    {
+        "ipc": "IPC_427",
+        "bns": "BNS_324"
+    },
+    {
+        "ipc": "IPC_426",
+        "bns": "BNS_326"
+    },
+    {
+        "ipc": "IPC_432",
+        "bns": "BNS_326"
+    },
+    {
+        "ipc": "IPC_428",
+        "bns": "BNS_324"
+    },
+    {
+        "ipc": "IPC_430",
+        "bns": "BNS_326"
+    },
+    {
+        "ipc": "IPC_434,",
+        "bns": "BNS_346"
+    },
+    {
+        "ipc": "IPC_431",
+        "bns": "BNS_325"
+    },
+    {
+        "ipc": "IPC_433",
+        "bns": "BNS_283"
+    },
+    {
+        "ipc": "IPC_438",
+        "bns": "BNS_327"
+    },
+    {
+        "ipc": "IPC_436",
+        "bns": "BNS_327"
+    },
+    {
+        "ipc": "IPC_435",
+        "bns": "BNS_325"
+    },
+    {
+        "ipc": "IPC_439",
+        "bns": "BNS_328"
+    },
+    {
+        "ipc": "IPC_437",
+        "bns": "BNS_327"
+    },
+    {
+        "ipc": "IPC_440",
+        "bns": "BNS_331"
+    },
+    {
+        "ipc": "IPC_443",
+        "bns": "BNS_330"
+    },
+    {
+        "ipc": "IPC_441",
+        "bns": "BNS_329"
+    },
+    {
+        "ipc": "IPC_442",
+        "bns": "BNS_329"
+    },
+    {
+        "ipc": "IPC_444",
+        "bns": "BNS_331"
+    },
+    {
+        "ipc": "IPC_447",
+        "bns": "BNS_329"
+    },
+    {
+        "ipc": "IPC_446",
+        "bns": "BNS_243"
+    },
+    {
+        "ipc": "IPC_445",
+        "bns": "BNS_329"
+    },
+    {
+        "ipc": "IPC_449",
+        "bns": "BNS_332"
+    },
+    {
+        "ipc": "IPC_448",
+        "bns": "BNS_333"
+    },
+    {
+        "ipc": "IPC_451",
+        "bns": "BNS_333"
+    },
+    {
+        "ipc": "IPC_450",
+        "bns": "BNS_332"
+    },
+    {
+        "ipc": "IPC_452",
+        "bns": "BNS_335"
+    },
+    {
+        "ipc": "IPC_454",
+        "bns": "BNS_333"
+    },
+    {
+        "ipc": "IPC_453",
+        "bns": "BNS_331"
+    },
+    {
+        "ipc": "IPC_455",
+        "bns": "BNS_335"
+    },
+    {
+        "ipc": "IPC_456",
+        "bns": "BNS_332"
+    },
+    {
+        "ipc": "IPC_457",
+        "bns": "BNS_334"
+    },
+    {
+        "ipc": "IPC_458",
+        "bns": "BNS_6"
+    },
+    {
+        "ipc": "IPC_460",
+        "bns": "BNS_8"
+    },
+    {
+        "ipc": "IPC_459",
+        "bns": "BNS_337"
+    },
+    {
+        "ipc": "IPC_461",
+        "bns": "BNS_334"
+    },
+    {
+        "ipc": "IPC_462",
+        "bns": "BNS_332"
+    },
+    {
+        "ipc": "IPC_463",
+        "bns": "BNS_336"
+    },
+    {
+        "ipc": "IPC_464",
+        "bns": "BNS_335"
+    },
+    {
+        "ipc": "IPC_467",
+        "bns": "BNS_338"
+    },
+    {
+        "ipc": "IPC_465",
+        "bns": "BNS_336"
+    },
+    {
+        "ipc": "IPC_468",
+        "bns": "BNS_339"
+    },
+    {
+        "ipc": "IPC_466",
+        "bns": "BNS_337"
+    },
+    {
+        "ipc": "IPC_469",
+        "bns": "BNS_469"
+    },
+    {
+        "ipc": "IPC_470",
+        "bns": "BNS_340"
+    },
+    {
+        "ipc": "IPC_471",
+        "bns": "BNS_340"
+    },
+    {
+        "ipc": "IPC_476",
+        "bns": "BNS_342"
+    },
+    {
+        "ipc": "IPC_474",
+        "bns": "BNS_339"
+    },
+    {
+        "ipc": "IPC_473,",
+        "bns": "BNS_342"
+    },
+    {
+        "ipc": "IPC_472,",
+        "bns": "BNS_341"
+    },
+    {
+        "ipc": "IPC_477,",
+        "bns": "BNS_343"
+    },
+    {
+        "ipc": "IPC_475",
+        "bns": "BNS_342"
+    },
+    {
+        "ipc": "IPC_479",
+        "bns": "BNS_345"
+    },
+    {
+        "ipc": "IPC_477A",
+        "bns": "BNS_344"
+    },
+    {
+        "ipc": "IPC_480",
+        "bns": "BNS_349"
+    },
+    {
+        "ipc": "IPC_478",
+        "bns": "BNS_349"
+    },
+    {
+        "ipc": "IPC_481",
+        "bns": "BNS_345"
+    },
+    {
+        "ipc": "IPC_483",
+        "bns": "BNS_347"
+    },
+    {
+        "ipc": "IPC_482",
+        "bns": "BNS_345"
+    },
+    {
+        "ipc": "IPC_486",
+        "bns": "BNS_349"
+    },
+    {
+        "ipc": "IPC_484",
+        "bns": "BNS_347"
+    },
+    {
+        "ipc": "IPC_488",
+        "bns": "BNS_349"
+    },
+    {
+        "ipc": "IPC_489A",
+        "bns": "BNS_178"
+    },
+    {
+        "ipc": "IPC_487",
+        "bns": "BNS_350"
+    },
+    {
+        "ipc": "IPC_485",
+        "bns": "BNS_348"
+    },
+    {
+        "ipc": "IPC_489",
+        "bns": "BNS_346"
+    },
+    {
+        "ipc": "IPC_490]",
+        "bns": "BNS_358"
+    },
+    {
+        "ipc": "IPC_489E",
+        "bns": "BNS_489"
+    },
+    {
+        "ipc": "IPC_489C",
+        "bns": "BNS_180"
+    },
+    {
+        "ipc": "IPC_493",
+        "bns": "BNS_81"
+    },
+    {
+        "ipc": "IPC_489B",
+        "bns": "BNS_179"
+    },
+    {
+        "ipc": "IPC_494",
+        "bns": "BNS_82"
+    },
+    {
+        "ipc": "IPC_489D",
+        "bns": "BNS_181"
+    },
+    {
+        "ipc": "IPC_492]",
+        "bns": "BNS_316"
+    },
+    {
+        "ipc": "IPC_491",
+        "bns": "BNS_357"
+    },
+    {
+        "ipc": "IPC_496",
+        "bns": "BNS_83"
+    },
+    {
+        "ipc": "IPC_498A",
+        "bns": "BNS_85"
+    },
+    {
+        "ipc": "IPC_498",
+        "bns": "BNS_84"
+    },
+    {
+        "ipc": "IPC_497",
+        "bns": "BNS_67"
+    },
+    {
+        "ipc": "IPC_495",
+        "bns": "BNS_249"
+    },
+    {
+        "ipc": "IPC_500",
+        "bns": "BNS_232"
+    },
+    {
+        "ipc": "IPC_501",
+        "bns": "BNS_356"
+    },
+    {
+        "ipc": "IPC_504",
+        "bns": "BNS_352"
+    },
+    {
+        "ipc": "IPC_503",
+        "bns": "BNS_351"
+    },
+    {
+        "ipc": "IPC_502",
+        "bns": "BNS_356"
+    },
+    {
+        "ipc": "IPC_507",
+        "bns": "BNS_44"
+    },
+    {
+        "ipc": "IPC_505",
+        "bns": "BNS_353"
+    },
+    {
+        "ipc": "IPC_509",
+        "bns": "BNS_79"
+    },
+    {
+        "ipc": "IPC_506",
+        "bns": "BNS_351"
+    },
+    {
+        "ipc": "IPC_508",
+        "bns": "BNS_354"
+    },
+    {
+        "ipc": "IPC_511",
+        "bns": "BNS_62"
+    },
+    {
+        "ipc": "IPC_510",
+        "bns": "BNS_355"
+    }
+]

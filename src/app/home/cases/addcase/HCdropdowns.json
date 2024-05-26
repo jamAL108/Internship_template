@@ -1,0 +1,291 @@
+[
+  {
+    "highCourt": "Allahabad High Court",
+    "benches": [
+      {
+        "value": "1",
+        "text": "Allahabad High Court"
+      },
+      {
+        "value": "2",
+        "text": "Allahabad High Court Lucknow Bench"
+      }
+    ]
+  },
+  {
+    "highCourt": "Bombay High Court",
+    "benches": [
+      {
+        "value": "1",
+        "text": "Appellate Side,Bombay"
+      },
+      {
+        "value": "3",
+        "text": "Bench at Aurangabad"
+      },
+      {
+        "value": "4",
+        "text": "Bench at Nagpur"
+      },
+      {
+        "value": "5",
+        "text": "High court of Bombay at Goa"
+      },
+      {
+        "value": "2",
+        "text": "Original Side,Bombay"
+      },
+      {
+        "value": "6",
+        "text": "Special Court (TORTS) Bombay"
+      }
+    ]
+  },
+  {
+    "highCourt": "Calcutta High Court",
+    "benches": [
+      {
+        "value": "3",
+        "text": "Appellate side"
+      },
+      {
+        "value": "2",
+        "text": "Circuit Bench At Jalpaiguri"
+      },
+      {
+        "value": "4",
+        "text": "Circuit Bench At Port Blair"
+      },
+      {
+        "value": "1",
+        "text": "Original Side"
+      }
+    ]
+  },
+  {
+    "highCourt": "Gauhati High Court",
+    "benches": [
+      {
+        "value": "3",
+        "text": "Aizawl Bench"
+      },
+      {
+        "value": "4",
+        "text": "Itanagar Bench"
+      },
+      {
+        "value": "2",
+        "text": "Kohima Bench"
+      },
+      {
+        "value": "1",
+        "text": "Principal Seat at Guwahati"
+      }
+    ]
+  },
+  {
+    "highCourt": "High Court for State of Telangana",
+    "benches": [
+      {
+        "value": "1",
+        "text": "Principal Bench at Hyderabad"
+      }
+    ]
+  },
+  {
+    "highCourt": "High Court of Andhra Pradesh",
+    "benches": [
+      {
+        "value": "1",
+        "text": "Principlal Bench at Andhra Pradesh"
+      }
+    ]
+  },
+  {
+    "highCourt": "High Court of Chhattisgarh",
+    "benches": [
+      {
+        "value": "1",
+        "text": "Principal Bench Chhattisgarh"
+      }
+    ]
+  },
+  {
+    "highCourt": "High Court of Delhi",
+    "benches": [
+      {
+        "value": "1",
+        "text": "Principal Bench Chhattisgarh"
+      }
+    ]
+  },
+  {
+    "highCourt": "High Court of Gujarat",
+    "benches": [
+      {
+        "value": "1",
+        "text": "Principal Bench Chhattisgarh"
+      }
+    ]
+  },
+  {
+    "highCourt": "High Court of Himachal Pradesh",
+    "benches": [
+      {
+        "value": "1",
+        "text": "Principal Bench Chhattisgarh"
+      }
+    ]
+  },
+  {
+    "highCourt": "High Court of Jammu and Kashmir",
+    "benches": [
+      {
+        "value": "1",
+        "text": "Principal Bench Chhattisgarh"
+      }
+    ]
+  },
+  {
+    "highCourt": "High Court of Jharkhand",
+    "benches": [
+      {
+        "value": "1",
+        "text": "Principal Bench at Delhi"
+      }
+    ]
+  },
+  {
+    "highCourt": "High Court of Karnataka",
+    "benches": [
+      {
+        "value": "2",
+        "text": "Bench at Dharwad"
+      },
+      {
+        "value": "3",
+        "text": "Bench at Kalburagi"
+      },
+      {
+        "value": "1",
+        "text": "Principal Bench at Bengaluru"
+      }
+    ]
+  },
+  {
+    "highCourt": "High Court of Kerala",
+    "benches": [
+      {
+        "value": "1",
+        "text": "High Court of Kerala"
+      }
+    ]
+  },
+  {
+    "highCourt": "High Court of Madhya Pradesh",
+    "benches": [
+      {
+        "value": "1",
+        "text": "High Court of Kerala"
+      }
+    ]
+  },
+  {
+    "highCourt": "High Court of Manipur",
+    "benches": [
+      {
+        "value": "1",
+        "text": "High Court of Kerala"
+      }
+    ]
+  },
+  {
+    "highCourt": "High Court of Meghalaya",
+    "benches": [
+      {
+        "value": "1",
+        "text": "High Court of Meghalaya"
+      }
+    ]
+  },
+  {
+    "highCourt": "High Court of Orissa",
+    "benches": [
+      {
+        "value": "1",
+        "text": "High Court of Orissa"
+      }
+    ]
+  },
+  {
+    "highCourt": "High Court of Punjab and Haryana",
+    "benches": [
+      {
+        "value": "1",
+        "text": "High Court of Punjab and Haryana"
+      }
+    ]
+  },
+  {
+    "highCourt": "High Court of Rajasthan",
+    "benches": [
+      {
+        "value": "1",
+        "text": "High Court Bench at Jaipur"
+      },
+      {
+        "value": "2",
+        "text": "Rajasthan High Court Principal Seat Jodhpur"
+      }
+    ]
+  },
+  {
+    "highCourt": "High Court of Sikkim",
+    "benches": [
+      {
+        "value": "1",
+        "text": "High Court of Sikkim"
+      }
+    ]
+  },
+  {
+    "highCourt": "High Court of Tripura",
+    "benches": [
+      {
+        "value": "1",
+        "text": "High Court of Tripura"
+      }
+    ]
+  },
+  {
+    "highCourt": "High Court of Uttarakhand",
+    "benches": [
+      {
+        "value": "1",
+        "text": "High Court of Uttarakhand"
+      }
+    ]
+  },
+  {
+    "highCourt": "Madras High Court",
+    "benches": [
+      {
+        "value": "2",
+        "text": "Madurai Bench of Madras High Court"
+      },
+      {
+        "value": "1",
+        "text": "Principal Bench of Madras High Court"
+      }
+    ]
+  },
+  {
+    "highCourt": "Patna High Court",
+    "benches": [
+      {
+        "value": "1",
+        "text": "Principal Bench Patna"
+      }
+    ]
+  }
+]

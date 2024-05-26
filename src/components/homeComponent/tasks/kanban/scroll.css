@@ -1,0 +1,11 @@
+/* hide scrollbar but allow scrolling */
+
+.kanbanColumn {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+    overflow-y: scroll;
+}
+
+.kanbanColumn::-webkit-scrollbar {
+    display: none;
+}
